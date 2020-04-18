@@ -1,5 +1,5 @@
 # adv_bioinfo_assignment_1
 
-- Decompress files
+The report for this assignment is in the report.ipynb file
 
-- explain structure folders
+Please clone/download the repository, uncompress the folders MSA_files.zip and fasta_files.zip before running the python code in the jupyter notebook
